@@ -129,7 +129,10 @@ Password: 12345678
 ## 🎬 Project Demo
 
 
-Uploading 2025-07-02 12-23-39 (1).mp4…
+
+https://github.com/user-attachments/assets/2f8958ab-4963-4315-a257-ea710451cc61
+
+
 
 
 
