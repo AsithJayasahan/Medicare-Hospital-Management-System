@@ -6,9 +6,10 @@ A comprehensive **Hospital Management System (HMS)** built with **Laravel** and 
 
 ## 📽️ Project Demo Video
 
-🎥 https://github.com/user-attachments/assets/a7c1539a-8aac-479a-b3c2-351a4b2062d1
 
-> *(Click to play if cloned locally. GitHub does not preview `.mp4` inline)*
+https://github.com/user-attachments/assets/4dc987b1-03ae-4105-b579-95a1dd5f7cac
+
+
 
 ---
 
