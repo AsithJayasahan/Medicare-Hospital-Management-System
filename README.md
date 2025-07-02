@@ -126,15 +126,15 @@ Password: 12345678
 
 ---
 
-## 📸 Screenshots
+## 🎬 Project Demo
 
-> (Add screenshots from the system UI)
 
-```markdown
-![Dashboard](images/dashboard.png)
-![Patient Module](images/patient.png)
-![Appointment Scheduling](images/appointment.png)
-```
+Uploading 2025-07-02 12-23-39 (1).mp4…
+
+
+
+
+
 
 ---
 
