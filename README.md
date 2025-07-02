@@ -138,14 +138,6 @@ This project is **complete** and functional for small to mid-size hospitals or c
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-🎓 Undergraduate Software Engineering Student  
-📫 your.email@example.com  
-🔗 [GitHub](https://github.com/yourusername)
-
----
 
 ## 📄 License
 
