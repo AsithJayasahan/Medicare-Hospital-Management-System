@@ -6,7 +6,7 @@ A comprehensive **Hospital Management System (HMS)** built with **Laravel** and 
 
 ## 📽️ Project Demo Video
 
-🎥 [Watch Demo Video](./HMS%20-%20Made%20with%20Clipchamp.mp4)
+🎥 https://github.com/user-attachments/assets/a7c1539a-8aac-479a-b3c2-351a4b2062d1
 
 > *(Click to play if cloned locally. GitHub does not preview `.mp4` inline)*
 
@@ -123,23 +123,6 @@ Password: 12345678
 ```
 
 > Or create a new account from the Register page
-
----
-
-## 🎬 Project Demo
-
-
-
-
-https://github.com/user-attachments/assets/a7c1539a-8aac-479a-b3c2-351a4b2062d1
-
-
-
-
-
-
-
-
 
 ---
 
